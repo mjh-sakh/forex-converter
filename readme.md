@@ -6,7 +6,10 @@ First clone it and navigate to the folder
 ```
 git clone https://github.com/mjh-sakh/forex-converter.git
 cd forex-converter
+make init
 ```
+
+Note: set up relies on [asdf](https://asdf-vm.com/) and [Bundler](https://bundler.io/) for version management.
 
 I use [irb](https://github.com/ruby/irb) for interactive use. 
 
